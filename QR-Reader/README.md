@@ -1,8 +1,8 @@
-# QR-Reader App    Created by Gigernau 
+# QR-Reader App &nbsp;&nbsp;&nbsp; created by Gigernau 
 
 Questa applicazione Android permette di leggere qualsiasi tipo di barcode o QrCode, in tempi ottimali.
 
-<img src="https://github.com/gigernau/App-Android/blob/master/QR-Reader/ScreenShot1.jpg" width="25%"></img>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/gigernau/App-Android/blob/master/QR-Reader/ScreenShot1.jpg" width="25%"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/gigernau/App-Android/blob/master/QR-Reader/ScreenShot2.jpg" width="25%"></img>&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/gigernau/App-Android/blob/master/QR-Reader/ScreenShot3.jpg" width="35%"></img>
 
