@@ -40,4 +40,4 @@ the License.
 Copyright
 ----------
 
-Copyright © gigernau 2018
+Copyright © gigernau 2018  All rights reserved.
