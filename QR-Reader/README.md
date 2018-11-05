@@ -1,5 +1,5 @@
 # QR-Reader App 
-#     created by Gianluca De Lucia
+   created by <b> Gianluca De Lucia </b>
 
 Questa applicazione Android permette di leggere qualsiasi tipo di barcode o QrCode, in tempi ottimali.
 
