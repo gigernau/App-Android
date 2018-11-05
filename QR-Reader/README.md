@@ -2,7 +2,7 @@
 
 Questa applicazione Android permette di leggere qualsiasi tipo di barcode o QrCode, in tempi ottimali.
 
-![drawing](SceenShot1.jpg)  
+![drawing](https://github.com/gigernau/App-Android/tree/master/QR-Reader/SceenShot1.jpg)  
 
 
 
