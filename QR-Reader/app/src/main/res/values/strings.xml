@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EM17</string>
+    <string name="err_msg_login">Credenziali Errate!</string>
+    <string name="success_msg_login">Accesso effettuato con successo!</string>
+
+    <string name="QR1">Nome: GIANLUCA\nCognome: DE LUCIA\nEvento: BIENNALE DI VENEZIA\nCod: X5GF\nPosti: B5</string>
+    <string name="QR2">Nome: ANDREA\nCognome: CAPONE\nEvento: CONC. PINK FLOYD\nCod: GAE75\nPosti: B6-B7</string>
+    <string name="QR3">Nome: LUCA\nCognome: MAZZONE\nEvento: BARBIERE DI SIVIGLIA\nCod: IYG04\nPosti: D3</string>
+
+    <string name="COD1">X5GF</string>
+    <string name="COD2">GAE75</string>
+    <string name="COD3">IYG04</string>
+
+
+</resources>
