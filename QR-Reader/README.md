@@ -17,7 +17,7 @@ Pre-requisiti
 Libreria per la decodifica di Qr Code : ZXing
 ----------------------------------------------
 La libreria esterna utilizzata per la lettura e la decodifica di QrCode è ZXing.
-Reperibile qui ---> https://github.com/zxing/zxing
+Reperibile qui ---> https://github.com/gigernau/zxing
 
 
 Iniziare
