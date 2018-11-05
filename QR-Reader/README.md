@@ -2,8 +2,8 @@
 
 Questa applicazione Android permette di leggere qualsiasi tipo di barcode o QrCode, in tempi ottimali.
 
-![drawing](https://github.com/gigernau/App-Android/tree/master/QR-Reader/SceenShot1.jpg)  
-
+<img src="https://github.com/gigernau/App-Android/blob/master/QR-Reader/ScreenShot1.jpg" width="30%"></img>
+<img src="https://github.com/gigernau/App-Android/blob/master/QR-Reader/ScreenShot2.jpg" width="30%"></img>
 
 
 Pre-requisiti
